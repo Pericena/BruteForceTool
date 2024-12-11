@@ -14,6 +14,14 @@ Aquí tienes una versión mejorada de tu `README.md` con los íconos de PayPal y
   </a>
 </p>
 
+     
+<p align="center">
+  <a href="https://lpericena.blogspot.com/2024/02/ciclopeclic-generador-de-enlaces-con-ia.html">
+    <img src="https://raw.githubusercontent.com/Pericena/CiclopeClic/main/img/512x512.png" width=200"/>
+  </a>
+</p>
+
+
 ## **Características principales:**
 - Implementación de ataques de fuerza bruta para descifrar contraseñas.
 - Opciones de personalización de la longitud, complejidad y caracteres permitidos para la contraseña.
