@@ -11,7 +11,7 @@ Aquí tienes una versión mejorada de tu `README.md` con los íconos de PayPal y
      
 <p align="center">
   <a href="https://lpericena.blogspot.com/2024/02/ciclopeclic-generador-de-enlaces-con-ia.html">
-    <img src="https://raw.githubusercontent.com/Pericena/BruteForceTool/refs/heads/main/banner.jpg" width=200"/>
+    <img src="https://raw.githubusercontent.com/Pericena/BruteForceTool/refs/heads/main/banner.jpg" width=600"/>
   </a>
 </p>
 
