@@ -1,6 +1,6 @@
-Aquí tienes una versión mejorada del `README.md` para tu proyecto en GitHub, que incluye todos los elementos solicitados, con un formato estructurado y profesional:
+Aquí tienes una versión mejorada de tu `README.md` con los íconos de PayPal y Binance, así como un diseño más atractivo. He añadido los iconos en formato de Markdown para que se vean bien en tu repositorio de GitHub. También puedes agregar una imagen de fondo si lo deseas, y la estructura general está optimizada para que el `README` se vea profesional.
 
-```markdown
+
 # **BruteForceTool**
 
 **BruteForceTool** es una herramienta desarrollada en C# para realizar ataques de fuerza bruta sobre contraseñas. Este proyecto tiene como objetivo demostrar la importancia de la seguridad informática mediante la simulación de un ataque, resaltando la necesidad de contraseñas robustas y sistemas de protección sólidos. Este software está diseñado **exclusivamente para fines educativos y de investigación en ciberseguridad**, y **no debe ser utilizado para actividades maliciosas**.
@@ -25,7 +25,7 @@ Aquí tienes una versión mejorada del `README.md` para tu proyecto en GitHub, q
 1. **Clona este repositorio**:
 
    ```bash
-   git clone https://github.com/tuusuario/BruteForceTool.git
+   git clone https://github.com/Pericena/BruteForceTool.git
    ```
 
 2. **Compila el proyecto**:
@@ -51,8 +51,8 @@ Este software está destinado únicamente a **fines educativos y de investigaci�
 
 Si deseas colaborar o apoyar este proyecto, puedes hacerlo a través de las siguientes plataformas:
 
-- [PayPal](https://www.paypal.com)  
-- [Binance](https://www.binance.com)
+[![PayPal](https://img.shields.io/badge/PayPal-donate-blue?logo=paypal&logoColor=white)](https://www.paypal.com)
+[![Binance](https://img.shields.io/badge/Donate-Binance-f0b90b?logo=binance&logoColor=white)](https://www.binance.com)
 
 Tu apoyo es importante para seguir desarrollando herramientas de ciberseguridad que beneficien a la comunidad.
 
@@ -69,18 +69,12 @@ Si tienes preguntas o sugerencias sobre el proyecto, no dudes en contactar a tra
 ---
 
 > **¡Recuerda siempre practicar la ética y la responsabilidad en la ciberseguridad!** 👨‍💻🔐
-```
 
-### ¿Qué cambios se han realizado?
-1. **Formato mejorado**: El uso de encabezados, negritas y citas mejora la claridad y la estructura del archivo.
-2. **Imagen del proyecto**: Añadí un lugar para incluir una imagen que represente el proyecto o el concepto de la herramienta (asegúrate de reemplazar la URL de la imagen con la correcta).
-3. **Sección de instalación**: Instrucciones detalladas de cómo clonar el repositorio y compilar el proyecto.
-4. **Soporte y colaboración**: Se añadió una sección donde los usuarios pueden donar o colaborar, usando plataformas como PayPal y Binance.
-5. **Licencia MIT**: Es importante aclarar la licencia de uso del proyecto.
-6. **Contactos y soporte**: Añadí una sección de contacto, donde los usuarios pueden hacer preguntas o sugerencias.
 
-### Sugerencia de mejoras adicionales:
-- **Imagen del progreso de la herramienta**: Puedes agregar capturas de pantalla que muestren la interfaz o el proceso de fuerza bruta en acción.
-- **Añadir enlaces relevantes**: Si tienes tutoriales, otros repositorios relacionados o documentación adicional, sería útil añadirlos en secciones como "Recursos adicionales".
+### Detalles importantes:
+1. **Íconos de PayPal y Binance**: Usé el servicio `Shields.io` para mostrar íconos interactivos de PayPal y Binance, lo que hace que tu repositorio se vea más profesional y atractivo.
+2. **Imagen de Banner**: He dejado un lugar para que pongas la URL de tu imagen de banner. Esto es ideal para darle un aspecto visual a tu repositorio.
+3. **Formato limpio y organizado**: Se ha mejorado la estructura del `README.md` para que sea más fácil de leer y entender.
+4. **Links activos**: Los enlaces de PayPal y Binance están en formato de íconos y son clickeables, lo que facilita las donaciones o colaboraciones.
 
-Este formato hará que tu repositorio luzca más profesional y sea más fácil de entender para cualquier persona que quiera contribuir o usar tu proyecto.
+¡Ahora tu repositorio tiene un diseño mucho más atractivo y profesional! Asegúrate de reemplazar la URL de la imagen con la correcta y de personalizar el correo electrónico y otros detalles.
