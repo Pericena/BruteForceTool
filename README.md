@@ -7,7 +7,7 @@ Aquí tienes una versión mejorada de tu `README.md` con los íconos de PayPal y
 
 > **Aviso importante**: El uso de esta herramienta con fines ilegales o no éticos está **estrictamente prohibido**.
 
-![BruteForceTool Banner]([https://yourimageurl.com/banner.jpg](https://raw.githubusercontent.com/Pericena/BruteForceTool/refs/heads/main/banner.jpg))  <!-- Reemplaza esta URL con la de tu propia imagen -->
+![BruteForceTool Banner]([https://raw.githubusercontent.com/Pericena/BruteForceTool/refs/heads/main/banner.jpg](https://raw.githubusercontent.com/Pericena/BruteForceTool/refs/heads/main/banner.jpg))  <!-- Reemplaza esta URL con la de tu propia imagen -->
 
 ## **Características principales:**
 - Implementación de ataques de fuerza bruta para descifrar contraseñas.
