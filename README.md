@@ -70,11 +70,3 @@ Si tienes preguntas o sugerencias sobre el proyecto, no dudes en contactar a tra
 
 > **¡Recuerda siempre practicar la ética y la responsabilidad en la ciberseguridad!** 👨‍💻🔐
 
-
-### Detalles importantes:
-1. **Íconos de PayPal y Binance**: Usé el servicio `Shields.io` para mostrar íconos interactivos de PayPal y Binance, lo que hace que tu repositorio se vea más profesional y atractivo.
-2. **Imagen de Banner**: He dejado un lugar para que pongas la URL de tu imagen de banner. Esto es ideal para darle un aspecto visual a tu repositorio.
-3. **Formato limpio y organizado**: Se ha mejorado la estructura del `README.md` para que sea más fácil de leer y entender.
-4. **Links activos**: Los enlaces de PayPal y Binance están en formato de íconos y son clickeables, lo que facilita las donaciones o colaboraciones.
-
-¡Ahora tu repositorio tiene un diseño mucho más atractivo y profesional! Asegúrate de reemplazar la URL de la imagen con la correcta y de personalizar el correo electrónico y otros detalles.
